@@ -1,0 +1,18 @@
+body {
+    color: #2E8BC0;
+    background-color: #0C2D48; 
+}
+
+.stButton>button {
+  border: 1px solid #ddd;
+  background-color: #145DA0;
+  color: #ffffff;
+  padding: 4px 12px;
+}
+/* 
+Color Palettes
+#B1D4E0
+#2E8BC0
+#0C2D48
+#145DA0
+*/
